@@ -1,7 +1,7 @@
 {
-  "version": "2.8.0",
-  "url": "https://raw.githubusercontent.com/shangkouyou/hanchor-updates/main/macos-arm64/Hanchor%20Agent_2.8.0_arm64.app.zip",
-  "sha256": "6fd63150054738208f720e1c58cb80bc356a2cd010fde952b4236d947f93aa70",
-  "notes": "Hanchor Agent 2.8.0",
+  "version": "2.9.0",
+  "url": "https://raw.githubusercontent.com/shangkouyou/hanchor-updates/main/macos-arm64/Hanchor%20Agent_2.9.0_arm64.app.zip",
+  "sha256": "20b8f3db08bb8af148bd425aa066f5c6280cd869fd0f28bfd354a1d6baa24b94",
+  "notes": "Hanchor Agent 2.9.0",
   "min_supported": "2.0.0"
 }
