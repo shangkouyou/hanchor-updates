@@ -1,7 +1,7 @@
 {
-  "version": "2.5.0",
-  "url": "https://raw.githubusercontent.com/shangkouyou/hanchor-updates/main/macos-arm64/Hanchor%20Agent_2.5.0_arm64.app.zip",
-  "sha256": "c7a1258bf4532e90ab2f125a4fa8d009a7d2aa72ad56a924f8b0a2e434ae5cde",
-  "notes": "Hanchor Agent 2.5.0：拖拽修复、强制自动升级、药企岗位引导词",
+  "version": "2.5.1",
+  "url": "https://raw.githubusercontent.com/shangkouyou/hanchor-updates/main/macos-arm64/Hanchor%20Agent_2.5.1_arm64.app.zip",
+  "sha256": "f6a8e1cee0159be586ac6420517c5844aaffa0a4d6832e4b923c51face9e3b2f",
+  "notes": "Hanchor Agent 2.5.1",
   "min_supported": "2.0.0"
 }
